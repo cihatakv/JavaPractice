@@ -9,11 +9,23 @@ public class Party_086 {
         // your code
         // ------------------------------------------
 
-//        String name;
-//
-//        do {
-//            name = input.nextLine();
-//        } while ();
+        String name;
+        String yesNo;
+        String list = "Guest's list: ";
+
+        do {
+            System.out.println("Please enter guest name:");
+            name = input.nextLine();
+            list += name + ", ";
+            System.out.println("Do you want to enter new guest name:");
+            yesNo = input.nextLine();
+        } while (yesNo.equals("yes"));
+
+        list = list.substring(0, list.length()-2);
+        System.out.println(list);
+
+
+
 
     }
 }
