@@ -1,0 +1,45 @@
+package repl;
+
+import java.util.Scanner;
+
+public class TipCalculator_051 {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+        System.out.print("Split:");
+        String splitNoSplit = scan.next();
+        System.out.print("Number of people:");
+        int noOfPeople = scan.nextInt();
+        System.out.print("Check amount:");
+        double checkAmount = scan.nextDouble();
+        System.out.print("Service Quality:");
+        String serviceQuality = scan.next();
+        double totalTip = 0;
+        double total = checkAmount;
+        // double tipPerPerson = 0;
+
+        if (splitNoSplit.equals("Yes")){
+            System.out.println("Number of people entered: " + noOfPeople);  // Number of people entered: &&&&
+                if (serviceQuality.equals("Excellent")) {
+                     totalTip = checkAmount * 0.25;
+                     total += totalTip;
+                } else if (serviceQuality.equals("Great")){
+                    totalTip = checkAmount * 0.2;
+                    total += totalTip;
+                } else if (serviceQuality.equals("Good")) {
+                    totalTip = checkAmount * 0.15;
+                    total += totalTip;
+                } else if (serviceQuality.equals("Fair")) {
+                    totalTip = checkAmount * 0.10;
+                    total += totalTip;
+                } else if (serviceQuality.equals("Poor")) {
+                    totalTip = checkAmount * 0.05;
+                    total += totalTip;
+                }
+            System.out.println("Total to pay: " + total);             // Total to pay: 595.0
+            System.out.println("Total tip: " + totalTip);                              // Total tip: 119.0
+            System.out.println("Total per person: " + ((totalTip + checkAmount)/4));    // Total per person: 148.75
+            System.out.println("Tip per person: " + (totalTip / noOfPeople));    // Tip per person: 29.75
+        }
+	}
+
+}
