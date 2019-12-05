@@ -8,5 +8,6 @@ public class PalindromeTest {
             reversedWord += word.charAt(i);
         if (word.equalsIgnoreCase(reversedWord))
             System.out.println(word + " is Palindrome");
+        System.out.println("--------------");
     }
 }
