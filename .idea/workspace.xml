@@ -2,7 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/repl/repl76_100/HasAJAva_093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl76_100/PrintLetters_095.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl76_100/RepeatSeparator_096.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl76_100/ShoppingList2_094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Day01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Day02/AboutMe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Day02/VariableAndConcatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Day02/VariableIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Day13/StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/META-INF/Day01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Week01/CharacherAndBoolen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Week01/EscapeCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Week01/PrimitivesPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Week01/StringDateType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/Week01/TestWithoutX_x_075.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/ctGitHubOld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/ctGitHubOld/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day04/AritmeticOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day04/ConvertCelciusToFahrenheit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day04/ScannerIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/SalaryCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/ScannerNextBoolean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/ShoppingListCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/TemperatureConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/TheScannerWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day05/TimeConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/CoinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/CompoundOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/CompoundOperatorRemainder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/NextLine_NextX_Mixture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/Remainder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/ScannerCapturingMultipleWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day06/UsingTheValueOfOtherVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day07/Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day07/CastingTheCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day07/EmailBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day07/PreIncrementDecrementOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day07/RelationalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day08/IfElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day08/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day08/MultiBranchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day08/WamUpTask2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day08/WarmUpTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/CitizenTypeChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/DayPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/DayPrinterVersion2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/DayPrinterWithSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/EvenOddFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day09/LanguagePicker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day10/Answer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day10/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day10/CalculatorSwitchWithScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day10/CalculatorSwitchWithScannerWithLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/PrimitiveTypeEqualityCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/ScoreChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/StringEquality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/StringEqualityPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day11/WarmUp1_LightOnOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/CarShopping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/CheckingStringEqualityWithoutCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/LoginTestTask4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/SeasonCheckerTask05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/StringCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/WakeUp_CodeInWeather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day12/WarmUp_SeasonFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/CharacterAmountInAString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/EmailChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/IndexOfPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/PasswordValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/StringCharAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day14/StringReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/CaseInsensitiveCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/NameChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/ReplaceMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/SubStringPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/SubStringPractice02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/codeNoteTask01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day15/codeNoteTask02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/CodeNoteTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/Count1To10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/Count1To10_V2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/GetSecondWordGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/GiveMeFiveWithWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/IndexOfWith2Parameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/SecondWordGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/TriangleXY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/WakeUpTask01OnDay16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day16/WhileLoopIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/BackwardEvenNumberFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/BackwardOddNumberFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/NamePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/PrintNameWithOddIndexes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/SkipCountingBy3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WakeUp_FullNameCorrector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WakeUp_NameCorrector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WfhileLoopFLow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WhileLoopForEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WhileLoopPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day17/WhileLoopReverseName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/DoWhileLoopIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/EvenNumberForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/ForLoopIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/GiveMe5$20$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/Shazam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/SmartLockOpener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/SmartLockOpenerWithAttempt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/SmartLockOpenerWithDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day18/WhileLoopReview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/CharAndForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/FindingTheCountOfSomething.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/ForLoopStairCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/HomeWorkForLoopForChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/HomeWorkForLoopForCharLikeStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/HomeWorkSumAskUSerwithinTheRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/HowManyShowedUpACharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/SpeedAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/day19/SumOfAllNumbersWithinTheRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/exercise/othersRepl/repl030.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/exercise/test02/CompoundOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/exercise/test02/CompoundOperator02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/random/AnotherExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/DuplicateIt_063.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/FindAUser_059.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/FindTheLength_062.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/PrintFirstCharacter_063.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/PrintLastCharacter_064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/SwitchChar_056.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/TernaryOperator1_060.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/TernaryOperator2_061.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/TipCalculator_051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/VerifyContains_058.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/WeekDays_057.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl/others/BuiltARouteByIsmailAlan_080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl01_25/GreaterNumber_025.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl01_25/PatientInformation_24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl01_25/PhoneNum_023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl01_25/ShoppingList01_022.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/AndroidVersions_029.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ApartmentLeasing01_039.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/BurgerAndChicken_050.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/CaffeineOverDose_033.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/Citizens036.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ConditionalStatementPractice1_046.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ConditionalStatementPractice2_047.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ConditionalStatementPractice3_048.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ConsoleMenu_031.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/GiftCard_035.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/HappyValleySchoolSystem_044.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/IfStatementGrades_049.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/Nums_040.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/OddEven_042.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/PositiveNegativeZero_041.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/PositiveNegativeZero_041_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/SchoolGrades_027.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/SecondsConverter_032.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ShoppingList02NewOne_030.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/ShoppingList02_030.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/VehicleRecall_045.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/VendingMachine_034.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/VideoGameCoupons037.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/Words_038.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl26_50/quizQuestion_043.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Alejandro1_074.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Alejandro2_075.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Evens_071.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/IfStatementLargestAmongThreeNumber_051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/IfStatementLargestAmongThreeNumbers_051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Mergethem_066.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/MiddleOne_064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/MiddleThree_073.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/MykytasRepl_051.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/PrintHalfTwice_069.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/PrintTheLongestWord_070.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/ReverseIt_067.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/StringToEnd_072.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/VerifyContains_068.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl51_75/Week_057.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/BuildARoute_080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/Count1_100_081.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/Div3_085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/Email2_077.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/Email_076.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/OnlineBookMerchants_084.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/Party_086.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/SmsMessage_078.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/StringNoEnd_082.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/StringSubstring_083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/WithoutX_x_WithLoop_079.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/repl/repl76_100/WithoutX_xs_079.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day01/zAdvanceAlgorithm/LeastCommonMultiple.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +224,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day20" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindDogInASentence">
+  <component name="RunManager" selected="Application.RepeatSeparator_096">
     <configuration name="FindDogInASentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day20.FindDogInASentence" />
       <module name="JavaPractice" />
@@ -51,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.PalindromeTest" />
+    <configuration name="HasAJAva_093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl76_100.HasAJAva_093" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="repl.repl76_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.ReversingAString" />
+    <configuration name="PrintLetters_095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl76_100.PrintLetters_095" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="repl.repl76_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeCharacterAtATime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.ThreeCharacterAtATime" />
+    <configuration name="RepeatSeparator_096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl76_100.RepeatSeparator_096" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="repl.repl76_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithMoreThanOneCharInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.WorkingWithMoreThanOneCharInString" />
+    <configuration name="ShoppingList2_094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl76_100.ShoppingList2_094" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="repl.repl76_100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatSeparator_096" />
+        <item itemvalue="Application.PrintLetters_095" />
+        <item itemvalue="Application.ShoppingList2_094" />
+        <item itemvalue="Application.HasAJAva_093" />
         <item itemvalue="Application.FindDogInASentence" />
-        <item itemvalue="Application.ThreeCharacterAtATime" />
-        <item itemvalue="Application.WorkingWithMoreThanOneCharInString" />
-        <item itemvalue="Application.PalindromeTest" />
-        <item itemvalue="Application.ReversingAString" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575515172070</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day20 Palindrome ended">
+      <created>1575519775934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575519775934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,39 +387,75 @@
     <MESSAGE value="day20.selfTest added" />
     <MESSAGE value="repl added" />
     <MESSAGE value="day20 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="day20 added" />
+    <MESSAGE value="day20 Palindrome ended" />
+    <option name="LAST_COMMIT_MESSAGE" value="day20 Palindrome ended" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1575515170620">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="269" y="184" key="CommitChangelistDialog2" timestamp="1575658497194">
+      <screen x="0" y="0" width="960" height="1793" />
     </state>
     <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488063238" />
-    <state x="614" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575515170620" />
-    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1575515152634">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="614" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575519774265" />
+    <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658497194" />
+    <state width="917" height="435" key="GridCell.Tab.0.bottom" timestamp="1575658391104">
+      <screen x="0" y="0" width="960" height="1793" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575515152634" />
-    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1575515152634">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="514" height="912" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575613857014" />
+    <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575658391104" />
+    <state width="917" height="435" key="GridCell.Tab.0.center" timestamp="1575658391103">
+      <screen x="0" y="0" width="960" height="1793" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575515152634" />
-    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1575515152634">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="514" height="912" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575613857014" />
+    <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575658391103" />
+    <state width="917" height="435" key="GridCell.Tab.0.left" timestamp="1575658391103">
+      <screen x="0" y="0" width="960" height="1793" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575515152634" />
-    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1575515152634">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="514" height="912" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575613857013" />
+    <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575658391103" />
+    <state width="917" height="435" key="GridCell.Tab.0.right" timestamp="1575658391104">
+      <screen x="0" y="0" width="960" height="1793" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575515152634" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575515176114">
+    <state width="514" height="912" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575613857014" />
+    <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575658391104" />
+    <state width="917" height="649" key="GridCell.Tab.1.bottom" timestamp="1575653575515">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575613688583" />
+    <state width="917" height="649" key="GridCell.Tab.1.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
+    <state width="917" height="649" key="GridCell.Tab.1.center" timestamp="1575653575515">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575613688583" />
+    <state width="917" height="649" key="GridCell.Tab.1.center/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
+    <state width="917" height="649" key="GridCell.Tab.1.left" timestamp="1575653575515">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575613688583" />
+    <state width="917" height="649" key="GridCell.Tab.1.left/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
+    <state width="917" height="649" key="GridCell.Tab.1.right" timestamp="1575653575515">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575613688583" />
+    <state width="917" height="649" key="GridCell.Tab.1.right/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
+    <state x="0" y="279" key="SettingsEditor" timestamp="1575646130404">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1575645952216" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575612860539" />
+    <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575519777373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488067079" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575515176114" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575519777373" />
+    <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
+      <screen x="0" y="0" width="960" height="1793" />
+    </state>
+    <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.960.1793@0.0.960.1793" timestamp="1575646474633" />
     <state x="521" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1575476653720">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
