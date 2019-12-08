@@ -13,10 +13,6 @@ public class WithoutX_xs_079 {
         if (word.charAt(last - 1 ) == 'x' || word.charAt(last - 1) == 'X')
             last--;
         System.out.println(word.substring(first,last));
-
-
-
         }
-
     }
 

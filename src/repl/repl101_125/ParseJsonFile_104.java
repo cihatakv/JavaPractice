@@ -7,7 +7,16 @@ public class ParseJsonFile_104 {
         Scanner scan = new Scanner(System.in);
         String json = scan.nextLine();
 
-        
+        int firstNameIndex = json.indexOf("firstName");
+        int fnComma = json.indexOf(',', firstNameIndex);
+
+        int lastNameIndex = json.indexOf("lastName");
+        int lnComma = json.indexOf(',', lastNameIndex);
+
+        System.out.println("First name: " + json.substring(firstNameIndex + 13, fnComma - 1));
+        System.out.println("Last name: " + json.substring(lastNameIndex + 12, lnComma - 1));
+
+
 
     }
 }

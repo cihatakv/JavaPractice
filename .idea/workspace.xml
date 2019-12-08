@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="New repl added">
-      <change afterPath="$PROJECT_DIR$/src/day21/DecidingWhenToStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/LoopControlStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/LoopControlStatement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/NameBreaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/NestedLoopIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/OddNumberPrintRepetition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/OrderOfBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/SearchingSomethingInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/SkipAll5s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/WakeUpTask1_NAmePrinter.java" afterDir="false" />
+    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day22/ArrayIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/CAnvasDayModuleLinkGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/MultiplationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/PrintMessageReversed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/PrintLettersCombinations_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/PrintVowels_106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/SliceNumbersWithDigit_107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/SliceNumbers_107.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repl/repl101_125/ParseJsonFile_104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl101_125/ParseJsonFile_104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repl/repl76_100/WithoutX_xs_079.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl76_100/WithoutX_xs_079.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +45,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="repl.repl101_125" />
       <recent name="day20" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedLoop">
-    <configuration name="LoopControlStatement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.LoopControlStatement2" />
+  <component name="RunManager" selected="Application.ArrayIntro">
+    <configuration name="ArrayIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.ArrayIntro" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.NestedLoop" />
+    <configuration name="CAnvasDayModuleLinkGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.CAnvasDayModuleLinkGenerator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.NestedLoopIntro" />
+    <configuration name="MultiplationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.MultiplationTable" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddNumberPrintRepetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.OddNumberPrintRepetition" />
+    <configuration name="PrintMessageReversed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day22.PrintMessageReversed" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkipAll5s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.SkipAll5s" />
+    <configuration name="SliceNumbers_107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.SliceNumbers_107" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="repl.repl101_125.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedLoop" />
-        <item itemvalue="Application.OddNumberPrintRepetition" />
-        <item itemvalue="Application.NestedLoopIntro" />
-        <item itemvalue="Application.SkipAll5s" />
-        <item itemvalue="Application.LoopControlStatement2" />
+        <item itemvalue="Application.ArrayIntro" />
+        <item itemvalue="Application.PrintMessageReversed" />
+        <item itemvalue="Application.MultiplationTable" />
+        <item itemvalue="Application.CAnvasDayModuleLinkGenerator" />
+        <item itemvalue="Application.SliceNumbers_107" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575753514381</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day21 added">
+      <created>1575770797961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575770797961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,58 +228,59 @@
     <MESSAGE value="day20 added" />
     <MESSAGE value="day20 Palindrome ended" />
     <MESSAGE value="New repl added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New repl added" />
+    <MESSAGE value="Day21 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day21 added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1575754801315">
+    <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1575770796351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488063238" />
-    <state x="614" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575754801315" />
+    <state x="614" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575770796351" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom" timestamp="1575758921372">
+    <state width="1877" height="419" key="GridCell.Tab.0.bottom" timestamp="1575831830774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575758921372" />
+    <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575831830774" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center" timestamp="1575758921372">
+    <state width="1877" height="419" key="GridCell.Tab.0.center" timestamp="1575831830774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575758921372" />
+    <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575831830774" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left" timestamp="1575758921372">
+    <state width="1877" height="419" key="GridCell.Tab.0.left" timestamp="1575831830774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575758921372" />
+    <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575831830774" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right" timestamp="1575758921372">
+    <state width="1877" height="419" key="GridCell.Tab.0.right" timestamp="1575831830774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="282" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575758921372" />
+    <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575831830774" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1575753490540">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1575777466289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575753490540" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1575753490540">
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1575777466289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575753490540" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.center/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1575753490540">
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1575777466289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575753490540" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.left/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1575753490540">
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1575777466289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575753490540" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.right/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1575694124916">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -280,11 +288,11 @@
     <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1575645952216" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575694124916" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575753515937">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575770896006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488067079" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575753515937" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575770896006" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
       <screen x="0" y="0" width="960" height="1793" />
