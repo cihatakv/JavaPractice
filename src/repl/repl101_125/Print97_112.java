@@ -5,8 +5,9 @@ public class Print97_112 {
         int k = 1;
         //WRITE YOUR CODE HERE
 
-
-
+        for (k = 1; k <= 97; k++) {
+            System.out.print("*");
+        }
     }
 }
 /*

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrintFirstLastCharI_110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrinting01_109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/Compute_111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/Print97_112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/PrintTriangle_108.java" afterDir="false" />
+    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="New Repl added">
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysCountOfEvenNumber_113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysFindSum_114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrinting02_117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrinting03_118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultipleByMe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repl/repl101_125/Print97_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl101_125/Print97_112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repl/repl101_125/PrintVowels_106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl101_125/PrintVowels_106.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +47,26 @@
       <recent name="day20" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysPrintFirstLastCharI_110">
-    <configuration name="ArrayCreation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day22.ArrayCreation2" />
+  <component name="RunManager" selected="Application.LeastCommonMultipleByMe">
+    <configuration name="ArrayFindMax_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArrayFindMax_115" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day22.*" />
+          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysCountOfEvenNumber_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArraysCountOfEvenNumber_113" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repl.repl101_125.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysPrinting01_109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArraysPrinting01_109" />
+    <configuration name="LeastCommonMultipleByMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zAdvanceAlgorithm.LeastCommonMultipleByMe" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="PATTERN" value="zAdvanceAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,25 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTriangle_108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.PrintTriangle_108" />
+    <configuration name="PrintVowels_106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.PrintVowels_106" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="repl.repl101_125.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerLoopArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day22.ScannerLoopArray" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeastCommonMultipleByMe" />
+        <item itemvalue="Application.PrintVowels_106" />
+        <item itemvalue="Application.ArrayFindMax_115" />
+        <item itemvalue="Application.ArraysCountOfEvenNumber_113" />
         <item itemvalue="Application.ArraysPrintFirstLastCharI_110" />
-        <item itemvalue="Application.ArraysPrinting01_109" />
-        <item itemvalue="Application.PrintTriangle_108" />
-        <item itemvalue="Application.ArrayCreation2" />
-        <item itemvalue="Application.ScannerLoopArray" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575865017263</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New Repl added">
+      <created>1575874504985</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575874504985</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,57 +250,62 @@
     <MESSAGE value="Day21 added" />
     <MESSAGE value="Some Repl added" />
     <MESSAGE value="Day22 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day22 added" />
+    <MESSAGE value="New Repl added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Repl added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1004" y="175" key="CommitChangelistDialog2" timestamp="1575874481157">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1575921986928">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488063238" />
-    <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575874481157" />
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575921986928" />
+    <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575874503450" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom" timestamp="1575872539807">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="434" key="GridCell.Tab.0.bottom" timestamp="1575932796784">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="282" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
+    <state width="1673" height="434" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
     <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539807" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center" timestamp="1575872539806">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="434" key="GridCell.Tab.0.center" timestamp="1575932796784">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="282" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
+    <state width="1673" height="434" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
     <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left" timestamp="1575872539806">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="434" key="GridCell.Tab.0.left" timestamp="1575932796784">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="282" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
+    <state width="1673" height="434" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
     <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right" timestamp="1575872539806">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="434" key="GridCell.Tab.0.right" timestamp="1575932796784">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="282" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575501304645" />
+    <state width="1673" height="434" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
     <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1575777466289">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="360" key="GridCell.Tab.1.bottom" timestamp="1575921977583">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
+    <state width="1673" height="360" key="GridCell.Tab.1.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1575777466289">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="360" key="GridCell.Tab.1.center" timestamp="1575921977583">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
+    <state width="1673" height="360" key="GridCell.Tab.1.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
     <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.center/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1575777466289">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="360" key="GridCell.Tab.1.left" timestamp="1575921977583">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
+    <state width="1673" height="360" key="GridCell.Tab.1.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
     <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.left/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1575777466289">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="360" key="GridCell.Tab.1.right" timestamp="1575921977583">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
+    <state width="1673" height="360" key="GridCell.Tab.1.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
     <state width="917" height="649" key="GridCell.Tab.1.right/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1575694124916">
@@ -351,6 +366,26 @@
           <url>file://$PROJECT_DIR$/src/repl/repl76_100/GetSandwich_100.java</url>
           <line>16</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
