@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="New Repl added">
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArrayFindMax_115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysCountOfEvenNumber_113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysFindSum_114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrinting02_117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl101_125/ArraysPrinting03_118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultipleByMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/ForEachLoopPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/StringArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/WarmUoArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl/repl101_125/Print97_112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl101_125/Print97_112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl/repl101_125/PrintVowels_106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl101_125/PrintVowels_106.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +43,13 @@
       <recent name="day20" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeastCommonMultipleByMe">
-    <configuration name="ArrayFindMax_115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArrayFindMax_115" />
+  <component name="RunManager" selected="Application.ForEachLoopPractice">
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23.ForEachLoop" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="PATTERN" value="day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,25 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysCountOfEvenNumber_113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArraysCountOfEvenNumber_113" />
+    <configuration name="ForEachLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23.ForEachLoopPractice" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysPrintFirstLastCharI_110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.ArraysPrintFirstLastCharI_110" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="PATTERN" value="day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintVowels_106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.PrintVowels_106" />
+    <configuration name="StringArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23.StringArrayPractice" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="PATTERN" value="day23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarmUoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23.WarmUoArray" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForEachLoopPractice" />
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.StringArrayPractice" />
+        <item itemvalue="Application.WarmUoArray" />
         <item itemvalue="Application.LeastCommonMultipleByMe" />
-        <item itemvalue="Application.PrintVowels_106" />
-        <item itemvalue="Application.ArrayFindMax_115" />
-        <item itemvalue="Application.ArraysCountOfEvenNumber_113" />
-        <item itemvalue="Application.ArraysPrintFirstLastCharI_110" />
       </list>
     </recent_temporary>
   </component>
@@ -254,59 +250,59 @@
     <option name="LAST_COMMIT_MESSAGE" value="New Repl added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1575921986928">
+    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1575933246280">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575921986928" />
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575933246280" />
     <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575874503450" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1673" height="434" key="GridCell.Tab.0.bottom" timestamp="1575932796784">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="418" key="GridCell.Tab.0.bottom" timestamp="1575944832139">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="434" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
-    <state width="1877" height="419" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539807" />
+    <state width="1877" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575944832139" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="434" key="GridCell.Tab.0.center" timestamp="1575932796784">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="418" key="GridCell.Tab.0.center" timestamp="1575944832138">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="434" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
-    <state width="1877" height="419" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
+    <state width="1877" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575944832138" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="434" key="GridCell.Tab.0.left" timestamp="1575932796784">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="418" key="GridCell.Tab.0.left" timestamp="1575944832138">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="434" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
-    <state width="1877" height="419" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
+    <state width="1877" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575944832138" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="434" key="GridCell.Tab.0.right" timestamp="1575932796784">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="418" key="GridCell.Tab.0.right" timestamp="1575944832138">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="434" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575932796784" />
-    <state width="1877" height="419" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575872539806" />
+    <state width="1877" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575944832138" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="360" key="GridCell.Tab.1.bottom" timestamp="1575921977583">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1575942515677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="360" key="GridCell.Tab.1.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575942515677" />
     <state width="917" height="649" key="GridCell.Tab.1.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1673" height="360" key="GridCell.Tab.1.center" timestamp="1575921977583">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1575942515677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="360" key="GridCell.Tab.1.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575942515677" />
     <state width="917" height="649" key="GridCell.Tab.1.center/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1673" height="360" key="GridCell.Tab.1.left" timestamp="1575921977583">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1575942515676">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="360" key="GridCell.Tab.1.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575942515676" />
     <state width="917" height="649" key="GridCell.Tab.1.left/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1673" height="360" key="GridCell.Tab.1.right" timestamp="1575921977583">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1575942515677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1673" height="360" key="GridCell.Tab.1.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575921977583" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575777466289" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575942515677" />
     <state width="917" height="649" key="GridCell.Tab.1.right/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1575694124916">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -314,10 +310,10 @@
     <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1575645952216" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575694124916" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575865018785">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1575933250091">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1575488067079" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1575933250091" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575865018785" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
