@@ -7,16 +7,8 @@
       <change afterPath="$PROJECT_DIR$/src/day24/ArraysMethodString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day24/TaskOn12_10_2019_ShoppingWithArray_01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day24/TaskOn12_10_2019_ShoppingWithArray_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/CreatingVariablesAndPrinting1_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/CreatingVariablesAndPrinting3_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/CreatingVariablesAndPrinting4_004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/CreatingVariablesAndPrinting5_005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsCharAt_007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsIndexOf_008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsLength_006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsPractice1_010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsPractice2_011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/AutoGradedCourse/StringMethodsSubstring_009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/CheckArrayIsSortedOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day25/CheckArrayIsSortedOrNot2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" afterDir="false" />
     </list>
@@ -57,20 +49,7 @@
       <recent name="day20" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskOn12_10_2019_ShoppingWithArray_02">
-    <configuration name="ArraysClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day24.ArraysClassMethod" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CheckArrayIsSortedOrNot">
     <configuration name="ArraysEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day24.ArraysEquality" />
       <module name="JavaPractice" />
@@ -90,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckArrayIsSortedOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day25.CheckArrayIsSortedOrNot" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckArrayIsSortedOrNot" />
         <item itemvalue="Application.TaskOn12_10_2019_ShoppingWithArray_02" />
         <item itemvalue="Application.TaskOn12_10_2019_ShoppingWithArray_01" />
         <item itemvalue="Application.ArraysEquality" />
         <item itemvalue="Application.ArraysMethodString" />
-        <item itemvalue="Application.ArraysClassMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575956543587</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="AutoGraded Repl added">
+      <created>1576104548976</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1576104548976</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -269,38 +268,39 @@
     <MESSAGE value="Day22 added" />
     <MESSAGE value="New Repl added" />
     <MESSAGE value="day23 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="day23 added" />
+    <MESSAGE value="AutoGraded Repl added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AutoGraded Repl added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1004" y="175" key="CommitChangelistDialog2" timestamp="1575956541225">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1576104546574">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1575933246280" />
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576104546574" />
     <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575956541225" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom" timestamp="1576041914780">
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom" timestamp="1576111001128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="314" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1575993948841" />
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576041914780" />
+    <state width="1673" height="402" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576105873903" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576111001128" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="324" key="GridCell.Tab.0.center" timestamp="1576041914779">
+    <state width="1877" height="387" key="GridCell.Tab.0.center" timestamp="1576111001128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="314" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1575993948841" />
-    <state width="1877" height="324" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576041914779" />
+    <state width="1673" height="402" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576105873903" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576111001128" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="324" key="GridCell.Tab.0.left" timestamp="1576041914779">
+    <state width="1877" height="387" key="GridCell.Tab.0.left" timestamp="1576111001128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="314" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1575993948841" />
-    <state width="1877" height="324" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576041914779" />
+    <state width="1673" height="402" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576105873903" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576111001128" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="324" key="GridCell.Tab.0.right" timestamp="1576041914780">
+    <state width="1877" height="387" key="GridCell.Tab.0.right" timestamp="1576111001128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="314" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1575993948841" />
-    <state width="1877" height="324" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576041914780" />
+    <state width="1673" height="402" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576105873903" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576111001128" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
     <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1575942515677">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -332,10 +332,10 @@
     <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1575645952216" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575694124916" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575956546194">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576104550728">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1575933250091" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576104550728" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575956546194" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
