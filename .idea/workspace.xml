@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="day24 added">
-      <change afterPath="$PROJECT_DIR$/src/day26/ArrayReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/ArrayTaskNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/CountItemInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/ReverseAnArrayBySwapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/SplitPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/StringSplitPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day26/SwappingValuesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/ToCharArrayPracticeWithArraysClassMethod.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day27/ArrayReview.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day27/ArrayTask.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day27/ArrayTask02.java" afterDir="false" />
@@ -84,7 +78,7 @@
       <recent name="repl.AutoGradedCourse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysPrintShortestWord2_126">
+  <component name="RunManager" selected="Application.ToCharArrayPracticeWithArraysClassMethod">
     <configuration name="ArraysPrintShortestWord2_126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="repl.repl126_150.ArraysPrintShortestWord2_126" />
       <module name="JavaPractice" />
@@ -137,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UtopianTree_123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repl.repl101_125.UtopianTree_123" />
+    <configuration name="ToCharArrayPracticeWithArraysClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26.ToCharArrayPracticeWithArraysClassMethod" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="repl.repl101_125.*" />
+          <option name="PATTERN" value="day26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToCharArrayPracticeWithArraysClassMethod" />
         <item itemvalue="Application.ArraysPrintShortestWord2_126" />
         <item itemvalue="Application.ArraysPrintShortestWord_125" />
         <item itemvalue="Application.ExcelVisualizer2" />
         <item itemvalue="Application.ExcelVisualizer" />
-        <item itemvalue="Application.UtopianTree_123" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576169660901</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="day26 added">
+      <created>1576602965839</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1576602965839</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,44 +321,45 @@
     <MESSAGE value="AutoGraded Repl added" />
     <MESSAGE value="day24 added" />
     <MESSAGE value="day25 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="day25 added" />
+    <MESSAGE value="day26 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="day26 added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576186583013">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1716.1073@0.0.1716.1073" timestamp="1576186583013" />
-    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1576169658759">
+    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1576603273417">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576169658759" />
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576603273417" />
     <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576111328194" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1576563581474">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="216" key="GridCell.Tab.0.bottom" timestamp="1576603201503">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="160" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576255095379" />
+    <state width="1673" height="216" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576603201503" />
     <state width="1877" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576563581474" />
     <state width="833" height="645" key="GridCell.Tab.0.bottom/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1576563581474">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="216" key="GridCell.Tab.0.center" timestamp="1576603201503">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="160" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576255095379" />
+    <state width="1673" height="216" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576603201503" />
     <state width="1877" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576563581474" />
     <state width="833" height="645" key="GridCell.Tab.0.center/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1576563581474">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="216" key="GridCell.Tab.0.left" timestamp="1576603201502">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="160" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576255095379" />
+    <state width="1673" height="216" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576603201502" />
     <state width="1877" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576563581474" />
     <state width="833" height="645" key="GridCell.Tab.0.left/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1576563581474">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1673" height="216" key="GridCell.Tab.0.right" timestamp="1576603201503">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="160" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576255095379" />
+    <state width="1673" height="216" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576603201503" />
     <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576563581474" />
     <state width="833" height="645" key="GridCell.Tab.0.right/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
@@ -396,10 +398,10 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576562611164" />
     <state x="0" y="279" key="SettingsEditor/0.0.876.1793@0.0.876.1793" timestamp="1576251183083" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576169662242">
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576603277216">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576169662242" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576603277216" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576111384597" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
