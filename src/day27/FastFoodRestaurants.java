@@ -1,5 +1,7 @@
 package day27;
 
+import java.util.Arrays;
+
 public class FastFoodRestaurants {
     public static void main(String[] args) {
         String[] restaurants = {"324 Main St,Massena,McDonald's,13662,NY,http://mcdonalds.com",
@@ -366,7 +368,21 @@ public class FastFoodRestaurants {
         //McDonald's -> Massena, NY
 
 
+        System.out.println();
+        System.out.println("TASK 6. Take first restaurant , split it with comma and print in below format");
+
+        String[] splittedFirstRestaurant = restaurants[0].split(",");
+        System.out.println(splittedFirstRestaurant[2] + " -> " + splittedFirstRestaurant[1] + ", " + splittedFirstRestaurant[4]);
+
         //TASK 7. Print each restaurant name, City, state in above format for all restaurants
+
+        System.out.println();
+        System.out.println("TASK 7. Print each restaurant name, City, state in above format for all restaurants");
+
+        for (int j = 0; j < restaurants.length; j++) {
+            String[] eachRestaurant = restaurants[j].split(",");
+            System.out.println(eachRestaurant[2] + " -> " + eachRestaurant[1] + ", " + eachRestaurant[4]);
+        }
 
     }
 }
