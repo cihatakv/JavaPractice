@@ -1,4 +1,4 @@
-package Day02;
+package day02;
 
 public class VariableIntro {
     public static void main(String[] args) {
@@ -6,8 +6,7 @@ public class VariableIntro {
         int corollaMillage;
         corollaMillage = 50009;
         System.out.println(offerCnt);
-        System.out.println(corollaMillage)
-        ;
+        System.out.println(corollaMillage);
 
 
 
