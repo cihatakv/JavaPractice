@@ -19,19 +19,7 @@
       <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysCopyCertainValues_129.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysPrintShortestWord2_126.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysZombieAttack1_127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/TaskDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/TaskExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/TaskOn12_10_2019_ShoppingWithArray_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/TaskOn12_10_2019_ShoppingWithArray_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/TestHere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/AboutMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/AboutMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/VariableAndConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/VariableAndConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/VariableIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day02/VariableIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24/TaskOn12_10_2019_ShoppingWithArray_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/TaskOn12_10_2019_ShoppingWithArray_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day24/TaskOn12_10_2019_ShoppingWithArray_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/TaskOn12_10_2019_ShoppingWithArray_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27/FastFoodRestaurants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27/FastFoodRestaurants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/repl/repl76_100/ShoppingList2_094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl76_100/ShoppingList2_094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" afterDir="false" />
     </list>
@@ -73,13 +61,13 @@
       <recent name="day25" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FastFoodRestaurants">
+  <component name="RunManager" selected="Application.HeroIdentity2_JusticeLeague">
     <configuration name="FastFoodRestaurants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27.FastFoodRestaurants" />
+      <option name="MAIN_CLASS_NAME" value="tasks.FastFoodRestaurants" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27.*" />
+          <option name="PATTERN" value="tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FastFoodRestaurants" />
         <item itemvalue="Application.HeroIdentity2_JusticeLeague" />
+        <item itemvalue="Application.FastFoodRestaurants" />
         <item itemvalue="Application.HeroIdentity2" />
         <item itemvalue="Application.HeroIdentity" />
         <item itemvalue="Application.UsingRandomObjectToGetRandomNumber" />
@@ -319,7 +307,35 @@
       <option name="project" value="LOCAL" />
       <updated>1576630411669</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="day01 updated">
+      <created>1576692156951</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576692156951</updated>
+    </task>
+    <task id="LOCAL-00023" summary="day02 Updated">
+      <created>1576692188623</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1576692188623</updated>
+    </task>
+    <task id="LOCAL-00024" summary="day27 Updated">
+      <created>1576692215388</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1576692215388</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Tasks Updated">
+      <created>1576692276576</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1576692276576</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,44 +356,48 @@
     <MESSAGE value="day26 added" />
     <MESSAGE value="7" />
     <MESSAGE value="Repl Added added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repl Added added" />
+    <MESSAGE value="day01 updated" />
+    <MESSAGE value="day02 Updated" />
+    <MESSAGE value="day27 Updated" />
+    <MESSAGE value="Tasks Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks Updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576186583013">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1716.1073@0.0.1716.1073" timestamp="1576186583013" />
-    <state x="1004" y="175" key="CommitChangelistDialog2" timestamp="1576630409215">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576603307179" />
-    <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576630409215" />
-    <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1673" height="207" key="GridCell.Tab.0.bottom" timestamp="1576692040257">
+    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1576692390420">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576692040257" />
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576692390420" />
+    <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576630409215" />
+    <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
+    <state width="1673" height="207" key="GridCell.Tab.0.bottom" timestamp="1576692339435">
+      <screen x="0" y="0" width="1716" height="1073" />
+    </state>
+    <state width="1673" height="207" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
     <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
     <state width="833" height="645" key="GridCell.Tab.0.bottom/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.center" timestamp="1576692040256">
+    <state width="1673" height="207" key="GridCell.Tab.0.center" timestamp="1576692339435">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576692040256" />
+    <state width="1673" height="207" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
     <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
     <state width="833" height="645" key="GridCell.Tab.0.center/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.left" timestamp="1576692040256">
+    <state width="1673" height="207" key="GridCell.Tab.0.left" timestamp="1576692339435">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576692040256" />
+    <state width="1673" height="207" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
     <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
     <state width="833" height="645" key="GridCell.Tab.0.left/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.right" timestamp="1576692040256">
+    <state width="1673" height="207" key="GridCell.Tab.0.right" timestamp="1576692339435">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576692040256" />
+    <state width="1673" height="207" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
     <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
     <state width="833" height="645" key="GridCell.Tab.0.right/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
@@ -416,10 +436,10 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576562611164" />
     <state x="0" y="279" key="SettingsEditor/0.0.876.1793@0.0.876.1793" timestamp="1576251183083" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576630413326">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576692278248">
+      <screen x="0" y="0" width="1716" height="1073" />
     </state>
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576603310835" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576692278248" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576630413326" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
