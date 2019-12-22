@@ -1,5 +1,7 @@
 package day30;
 
+import day31.CallingOneMethodInsideAnother;
+
 import java.util.Arrays;
 
 public class SplitPractice {
@@ -25,5 +27,6 @@ public class SplitPractice {
 
         String model = carSplitted[1];
         System.out.println("model = " + model);
+
     }
 }
