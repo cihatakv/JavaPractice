@@ -6,7 +6,7 @@ public class ExcelVisualizer {
     public static void main(String[] args) {
 
         /*
-      * Cell(1,1)= 78    Cell(1,2)= 54    Cell(1,3)= 100    Cell(1,4)= 84
+        Cell(1,1)= 78    Cell(1,2)= 54    Cell(1,3)= 100    Cell(1,4)= 84
         Cell(2,1)= 33    Cell(2,2)= 44    Cell(2,3)= 77    Cell(2,4)= 123
         Cell(3,1)= 12    Cell(3,2)= 88    Cell(3,3)= 52    Cell(3,4)= 76
         Cell(4,1)= 67    Cell(4,2)= 33    Cell(4,3)= 98    Cell(4,4)= 67
