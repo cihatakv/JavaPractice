@@ -22,6 +22,5 @@ public class AtTheBank {
         b1.purchaseProduct(120, 3);
         System.out.println("b1 = " + b1);
 
-
     }
 }

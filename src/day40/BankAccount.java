@@ -5,7 +5,7 @@ public class BankAccount {
     String accountType;
     String accountHolder;
     long accountNumber;
-    double balance;
+    private double balance;
 
     // setAllTheValue
     public void setAllTheValue(String newAccountType, String newAccountHolder, long newAccountNumber, double newBalance) {
@@ -18,6 +18,7 @@ public class BankAccount {
 
     // showAccountBalance()
     public void showAccountBalance() {
+        // authentication
         System.out.println("Current balance = " + balance);
     }
 
