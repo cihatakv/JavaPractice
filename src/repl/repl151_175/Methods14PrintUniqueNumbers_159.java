@@ -6,9 +6,11 @@ import java.util.Scanner;
 public class Methods14PrintUniqueNumbers_159 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        System.out.println("Please enter Size");
         int size = scan.nextInt();
         int[] nums = new int[size];
         for (int i = 0; i < size; i++) {
+            System.out.println("Please enter the element");
             nums[i] = scan.nextInt();
         }
         printUniqueNumbers(nums);
@@ -18,11 +20,11 @@ public class Methods14PrintUniqueNumbers_159 {
     public static void printUniqueNumbers(int[] nums) {
         //WRITE YOUR CODE HERE
         Arrays.sort(nums);
-        for (int i = 0; i < nums.length - 1; i++) {
+        for (int i = 0; i < nums.length - 2; i++) {
             if (nums[i] != nums[i + 1])
                 System.out.println(nums[i]);
-            else
-                i++;
+//            else
+//                i++;
         }
         if (nums[nums.length - 2] != nums[nums.length - 1])
             System.out.println(nums[nums.length - 1]);

@@ -15,8 +15,8 @@ public class ArraysPrinting03_118 {
         //write your code below
 
         for (int i = 0; i < arr.length; i += 3) {
-            System.out.print(arr[i] + " , " + arr[i + 1] + " , " + arr[i + 2]);
-            System.out.println();
+            System.out.println(arr[i] + " , " + arr[i + 1] + " , " + arr[i + 2]);
+
         }
 
     }

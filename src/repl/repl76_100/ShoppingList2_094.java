@@ -19,11 +19,11 @@ public class ShoppingList2_094 {
             totalPrice += price;
             scan.nextLine();
             // scan.nextLine();
-            shoppingListReport += "Item" + count + ": " + item + " Price: " + price + ", ";
+
             count++;
             System.out.println("Add one more item?");
             countinue = scan.nextLine();
-
+            shoppingListReport += "Item" + count + ": " + item + " Price: " + price + ", ";
 
 
         } while (count < 11 && countinue.equalsIgnoreCase("yes"));
