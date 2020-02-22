@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="day24 added">
-      <change afterPath="$PROJECT_DIR$/src/day28/ExcelVisualizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/ExcelVisualizer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/FillUpStringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/FillingUpArrayValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/FillingUpArrayValueEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentity2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/HeroIdentity2_JusticeLeague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/StringPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/UsingRandomObjectToGetRandomNumber.java" afterDir="false" />
+    <list default="true" id="bf21256a-329f-4866-80f3-083c2a557787" name="Default Changelist" comment="day38 added">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMentoring/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMentoring/PersonAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyMentoring/TestTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/CodingBatArra2_HaveThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/CodingBatArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/CodingBatArray2Lucky13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/CodingBatArray2Sum67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/CodingBatArray2TwoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/codingBat/MethodsCodingBat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/pramp/ArrayAddition1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/pramp/SumSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/random/ArrayListRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/random/Hypotenuse_Pisagor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/volkanIstek/DisplayPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/volkanIstek/MathematicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/mentoring/ArrayRotator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentoring/Repl73WithAhmet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mentoring/Repl76WithAhmet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/mentoring/Riddle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/mentoring/Riddle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysAverageTemperature_128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysCopyCertainValues_129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysPrintShortestWord2_126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repl/repl126_150/ArraysZombieAttack1_127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/JobTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/LeapYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/MethodTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/MethodTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/TaskByMuhtar01_02_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/ToyotaInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/WarmUpTaskOn12_19_2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/WrapperClassMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultipleForMultipleNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl/repl76_100/ShoppingList2_094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl/repl76_100/ShoppingList2_094.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/random/AnotherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/random/AnotherExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultipleByMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zAdvanceAlgorithm/LeastCommonMultipleByMe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +47,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1UVHyaV6WzsxJYb0GS8CNqSM4GH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,30 +62,47 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/day52/polymorphism" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day52.polymorphism" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day52\polymorphism" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day52" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day52\warmUp" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day46" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="day29" />
-      <recent name="day28" />
-      <recent name="day27" />
-      <recent name="day24" />
-      <recent name="day25" />
+      <recent name="day63" />
+      <recent name="day62" />
+      <recent name="day60" />
+      <recent name="day59" />
+      <recent name="day56" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day60" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaPractice\src\day59\day60" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeroIdentity2_JusticeLeague">
-    <configuration name="FastFoodRestaurants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.FastFoodRestaurants" />
+  <component name="RunManager" selected="Application.ListToMapPractice">
+    <configuration name="ListToMapPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day63.ListToMapPractice" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
+          <option name="PATTERN" value="day63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeroIdentity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29.HeroIdentity" />
+    <configuration name="ReadingFilePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day63.ReadingFilePractice" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29.*" />
+          <option name="PATTERN" value="day63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeroIdentity2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29.HeroIdentity2" />
+    <configuration name="WordFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day63.WordFrequency" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29.*" />
+          <option name="PATTERN" value="day63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeroIdentity2_JusticeLeague" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29.HeroIdentity2_JusticeLeague" />
+    <configuration name="WordFrequencyFromTheFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day63.WordFrequencyFromTheFile" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29.*" />
+          <option name="PATTERN" value="day63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsingRandomObjectToGetRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29.UsingRandomObjectToGetRandomNumber" />
+    <configuration name="WordUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day63.WordUtil" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29.*" />
+          <option name="PATTERN" value="day63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeroIdentity2_JusticeLeague" />
-        <item itemvalue="Application.FastFoodRestaurants" />
-        <item itemvalue="Application.HeroIdentity2" />
-        <item itemvalue="Application.HeroIdentity" />
-        <item itemvalue="Application.UsingRandomObjectToGetRandomNumber" />
+        <item itemvalue="Application.ListToMapPractice" />
+        <item itemvalue="Application.ReadingFilePractice" />
+        <item itemvalue="Application.WordFrequencyFromTheFile" />
+        <item itemvalue="Application.WordUtil" />
+        <item itemvalue="Application.WordFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -160,288 +195,504 @@
       <option name="presentableId" value="Default" />
       <updated>1575435098240</updated>
     </task>
-    <task id="LOCAL-00001" summary="I uploaded all classes to project folder">
-      <created>1575436059831</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00026" summary="Workspace.xml update">
+      <created>1576692412013</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1575436059831</updated>
+      <updated>1576692412013</updated>
     </task>
-    <task id="LOCAL-00002" summary="day20.selfTest added">
-      <created>1575437006880</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00027" summary="day28 added">
+      <created>1576781437970</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1575437006880</updated>
+      <updated>1576781437970</updated>
     </task>
-    <task id="LOCAL-00003" summary="day20.selfTest added">
-      <created>1575437684694</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00028" summary="day29 added">
+      <created>1576781507805</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1575437684694</updated>
+      <updated>1576781507805</updated>
     </task>
-    <task id="LOCAL-00004" summary="repl added">
-      <created>1575488065021</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00029" summary="day30 added">
+      <created>1576781699367</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1575488065021</updated>
+      <updated>1576781699367</updated>
     </task>
-    <task id="LOCAL-00005" summary="repl added">
-      <created>1575511846809</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00030" summary="day28 added">
+      <created>1577045332096</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1575511846809</updated>
+      <updated>1577045332096</updated>
     </task>
-    <task id="LOCAL-00006" summary="day20 added">
-      <created>1575515172070</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00031" summary="day30 added">
+      <created>1577045396753</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1575515172070</updated>
+      <updated>1577045396753</updated>
     </task>
-    <task id="LOCAL-00007" summary="day20 Palindrome ended">
-      <created>1575519775934</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00032" summary="day31 added">
+      <created>1577045429955</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1575519775934</updated>
+      <updated>1577045429955</updated>
     </task>
-    <task id="LOCAL-00008" summary="New repl added">
-      <created>1575658559447</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00033" summary="day32 added">
+      <created>1577148270033</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1575658559447</updated>
+      <updated>1577148270033</updated>
     </task>
-    <task id="LOCAL-00009" summary="New repl added">
-      <created>1575753514381</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00034" summary="day33 added">
+      <created>1577162336905</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1575753514381</updated>
+      <updated>1577162336905</updated>
     </task>
-    <task id="LOCAL-00010" summary="Day21 added">
-      <created>1575770797961</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00035" summary="Repl126_150 added">
+      <created>1577162404918</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1575770797961</updated>
+      <updated>1577162404918</updated>
     </task>
-    <task id="LOCAL-00011" summary="Some Repl added">
-      <created>1575837153472</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00036" summary="repl added">
+      <created>1577403133348</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1575837153472</updated>
+      <updated>1577403133348</updated>
     </task>
-    <task id="LOCAL-00012" summary="Day22 added">
-      <created>1575865017263</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00037" summary="day34 added">
+      <created>1577589843496</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1575865017263</updated>
+      <updated>1577589843496</updated>
     </task>
-    <task id="LOCAL-00013" summary="New Repl added">
-      <created>1575874504985</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00038" summary="day35 added">
+      <created>1578278586285</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1575874504985</updated>
+      <updated>1578278586285</updated>
     </task>
-    <task id="LOCAL-00014" summary="day23 added">
-      <created>1575956543587</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00039" summary="day36 added">
+      <created>1578278616861</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1575956543587</updated>
+      <updated>1578278616861</updated>
     </task>
-    <task id="LOCAL-00015" summary="AutoGraded Repl added">
-      <created>1576104548976</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00040" summary="day37 added">
+      <created>1578278646154</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1576104548976</updated>
+      <updated>1578278646154</updated>
     </task>
-    <task id="LOCAL-00016" summary="day24 added">
-      <created>1576111310103</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00041" summary="Repl added">
+      <created>1578278689330</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1576111310103</updated>
+      <updated>1578278689330</updated>
     </task>
-    <task id="LOCAL-00017" summary="day25 added">
-      <created>1576169660901</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00042" summary="day38 added">
+      <created>1579149849811</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1576169660901</updated>
+      <updated>1579149849811</updated>
     </task>
-    <task id="LOCAL-00018" summary="day26 added">
-      <created>1576602965839</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00043" summary="day39 added">
+      <created>1579149883292</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1576602965839</updated>
+      <updated>1579149883292</updated>
     </task>
-    <task id="LOCAL-00019" summary="day26 added">
-      <created>1576603275646</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00044" summary="day38 added">
+      <created>1579149905452</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1576603275646</updated>
+      <updated>1579149905452</updated>
     </task>
-    <task id="LOCAL-00020" summary="7">
-      <created>1576603309444</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00045" summary="day41 added">
+      <created>1579310449983</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1576603309444</updated>
+      <updated>1579310449983</updated>
     </task>
-    <task id="LOCAL-00021" summary="Repl Added added">
-      <created>1576630411669</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00046" summary="day42 added">
+      <created>1580280121193</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1576630411669</updated>
+      <updated>1580280121193</updated>
     </task>
-    <task id="LOCAL-00022" summary="day01 updated">
-      <created>1576692156951</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00047" summary="day43 added">
+      <created>1580280169056</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1576692156951</updated>
+      <updated>1580280169056</updated>
     </task>
-    <task id="LOCAL-00023" summary="day02 Updated">
-      <created>1576692188623</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00048" summary="day44 added">
+      <created>1580280212086</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1576692188623</updated>
+      <updated>1580280212086</updated>
     </task>
-    <task id="LOCAL-00024" summary="day27 Updated">
-      <created>1576692215388</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00049" summary="day45 added">
+      <created>1580280256413</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1576692215388</updated>
+      <updated>1580280256413</updated>
     </task>
-    <task id="LOCAL-00025" summary="Tasks Updated">
-      <created>1576692276576</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00050" summary="day46 added">
+      <created>1580280283220</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1576692276576</updated>
+      <updated>1580280283221</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00051" summary="day47 added">
+      <created>1580280309960</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1580280309960</updated>
+    </task>
+    <task id="LOCAL-00052" summary="day48 added">
+      <created>1580280351717</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1580280351717</updated>
+    </task>
+    <task id="LOCAL-00053" summary="day49 added">
+      <created>1580280380163</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1580280380164</updated>
+    </task>
+    <task id="LOCAL-00054" summary="AkbarsNote added">
+      <created>1580280533524</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1580280533524</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Old CT GitHub added">
+      <created>1580280582954</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1580280582954</updated>
+    </task>
+    <task id="LOCAL-00056" summary="day40 Update">
+      <created>1581198366874</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1581198366874</updated>
+    </task>
+    <task id="LOCAL-00057" summary="day50 added">
+      <created>1581198398743</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1581198398743</updated>
+    </task>
+    <task id="LOCAL-00058" summary="day51 added">
+      <created>1581198431816</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1581198431816</updated>
+    </task>
+    <task id="LOCAL-00059" summary="day52 added">
+      <created>1581198467093</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1581198467093</updated>
+    </task>
+    <task id="LOCAL-00060" summary="day53 added">
+      <created>1582411500761</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411500762</updated>
+    </task>
+    <task id="LOCAL-00061" summary="day54 added">
+      <created>1582411797397</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411797397</updated>
+    </task>
+    <task id="LOCAL-00062" summary="day55 added">
+      <created>1582411842402</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411842402</updated>
+    </task>
+    <task id="LOCAL-00063" summary="day56 added">
+      <created>1582411882564</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411882564</updated>
+    </task>
+    <task id="LOCAL-00064" summary="day57 added">
+      <created>1582411925145</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411925145</updated>
+    </task>
+    <task id="LOCAL-00065" summary="day58 added">
+      <created>1582411974807</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411974807</updated>
+    </task>
+    <task id="LOCAL-00066" summary="day59 added">
+      <created>1582411999686</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1582411999687</updated>
+    </task>
+    <task id="LOCAL-00067" summary="day60 added">
+      <created>1582412033123</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412033123</updated>
+    </task>
+    <task id="LOCAL-00068" summary="day61 added">
+      <created>1582412065960</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412065960</updated>
+    </task>
+    <task id="LOCAL-00069" summary="day62 added">
+      <created>1582412101896</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412101896</updated>
+    </task>
+    <task id="LOCAL-00070" summary="day38 added">
+      <created>1582412286900</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412286900</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Canvas Practices added">
+      <created>1582412330863</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412330863</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Repls added">
+      <created>1582412422882</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412422882</updated>
+    </task>
+    <task id="LOCAL-00073" summary="HackerRank added">
+      <created>1582412466123</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412466123</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Canvas Interview Practices added">
+      <created>1582412517255</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1582412517256</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I uploaded all classes to project folder" />
-    <MESSAGE value="day20.selfTest added" />
-    <MESSAGE value="repl added" />
-    <MESSAGE value="day20 added" />
-    <MESSAGE value="day20 Palindrome ended" />
-    <MESSAGE value="New repl added" />
-    <MESSAGE value="Day21 added" />
-    <MESSAGE value="Some Repl added" />
-    <MESSAGE value="Day22 added" />
-    <MESSAGE value="New Repl added" />
-    <MESSAGE value="day23 added" />
-    <MESSAGE value="AutoGraded Repl added" />
-    <MESSAGE value="day24 added" />
-    <MESSAGE value="day25 added" />
-    <MESSAGE value="day26 added" />
-    <MESSAGE value="7" />
-    <MESSAGE value="Repl Added added" />
-    <MESSAGE value="day01 updated" />
-    <MESSAGE value="day02 Updated" />
-    <MESSAGE value="day27 Updated" />
-    <MESSAGE value="Tasks Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks Updated" />
+    <MESSAGE value="day46 added" />
+    <MESSAGE value="day47 added" />
+    <MESSAGE value="day48 added" />
+    <MESSAGE value="day49 added" />
+    <MESSAGE value="AkbarsNote added" />
+    <MESSAGE value="Old CT GitHub added" />
+    <MESSAGE value="day40 Update" />
+    <MESSAGE value="day50 added" />
+    <MESSAGE value="day51 added" />
+    <MESSAGE value="day52 added" />
+    <MESSAGE value="day53 added" />
+    <MESSAGE value="day54 added" />
+    <MESSAGE value="day55 added" />
+    <MESSAGE value="day56 added" />
+    <MESSAGE value="day57 added" />
+    <MESSAGE value="day58 added" />
+    <MESSAGE value="day59 added" />
+    <MESSAGE value="day60 added" />
+    <MESSAGE value="day61 added" />
+    <MESSAGE value="day62 added" />
+    <MESSAGE value="day38 added" />
+    <MESSAGE value="Canvas Practices added" />
+    <MESSAGE value="Repls added" />
+    <MESSAGE value="HackerRank added" />
+    <MESSAGE value="Canvas Interview Practices added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Canvas Interview Practices added" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1580595070069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1580595070069" />
+    <state x="706" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579364965457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579364965457" />
+    <state x="734" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1582165043508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1716.1073@0.0.1716.1073" timestamp="1579632907148" />
+    <state x="734" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582165043508" />
+    <state x="671" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580660228775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580660228775" />
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576186583013">
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
     <state x="654" y="421" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1716.1073@0.0.1716.1073" timestamp="1576186583013" />
-    <state x="549" y="110" key="CommitChangelistDialog2" timestamp="1576692390420">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state x="404" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581273649917">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576692390420" />
-    <state x="1004" y="175" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576630409215" />
+    <state x="404" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581273649917" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579661939109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579661939109" />
+    <state x="385" y="70" width="1327" height="898" key="CommitChangelistDialog2" timestamp="1582412687340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="110" key="CommitChangelistDialog2/0.0.1716.1073@0.0.1716.1073" timestamp="1576781697196" />
+    <state x="385" y="70" width="1327" height="898" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582412687340" />
     <state x="269" y="184" key="CommitChangelistDialog2/0.0.960.1793@0.0.960.1793" timestamp="1575658555865" />
-    <state width="1673" height="207" key="GridCell.Tab.0.bottom" timestamp="1576692339435">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state x="740" y="240" key="FileChooserDialogImpl" timestamp="1580595066405">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
-    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
+    <state x="740" y="240" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580595066405" />
+    <state x="832" y="413" width="260" height="214" key="Github.ShareDialog" timestamp="1577045283726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="413" width="260" height="214" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577045283726" />
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1582408939030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1673" height="204" key="GridCell.Tab.0.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1582327358873" />
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582408939030" />
     <state width="833" height="645" key="GridCell.Tab.0.bottom/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.center" timestamp="1576692339435">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1582408939029">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
-    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
+    <state width="1673" height="204" key="GridCell.Tab.0.center/0.0.1716.1073@0.0.1716.1073" timestamp="1582327358873" />
+    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582408939029" />
     <state width="833" height="645" key="GridCell.Tab.0.center/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.center/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.left" timestamp="1576692339435">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1582408939029">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
-    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
+    <state width="1673" height="204" key="GridCell.Tab.0.left/0.0.1716.1073@0.0.1716.1073" timestamp="1582327358873" />
+    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582408939029" />
     <state width="833" height="645" key="GridCell.Tab.0.left/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.left/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1673" height="207" key="GridCell.Tab.0.right" timestamp="1576692339435">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1582408939029">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="207" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576692339435" />
-    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576637959501" />
+    <state width="1673" height="204" key="GridCell.Tab.0.right/0.0.1716.1073@0.0.1716.1073" timestamp="1582327358873" />
+    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582408939029" />
     <state width="833" height="645" key="GridCell.Tab.0.right/0.0.876.1793@0.0.876.1793" timestamp="1576252306092" />
     <state width="917" height="435" key="GridCell.Tab.0.right/0.0.960.1793@0.0.960.1793" timestamp="1575664756686" />
-    <state width="1877" height="258" key="GridCell.Tab.1.bottom" timestamp="1576632854301">
+    <state width="1877" height="178" key="GridCell.Tab.1.bottom" timestamp="1581877442357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="269" key="GridCell.Tab.1.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1576617023066" />
-    <state width="1877" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576632854301" />
+    <state width="1673" height="186" key="GridCell.Tab.1.bottom/0.0.1716.1073@0.0.1716.1073" timestamp="1580165998883" />
+    <state width="1877" height="178" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581877442357" />
     <state width="833" height="645" key="GridCell.Tab.1.bottom/0.0.876.1793@0.0.876.1793" timestamp="1576252304204" />
     <state width="917" height="649" key="GridCell.Tab.1.bottom/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="258" key="GridCell.Tab.1.center" timestamp="1576632854301">
+    <state width="1877" height="178" key="GridCell.Tab.1.center" timestamp="1581877442356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="269" key="GridCell.Tab.1.center/0.0.1716.1073@0.0.1716.1073" timestamp="1576617023066" />
-    <state width="1877" height="258" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576632854301" />
+    <state width="1673" height="186" key="GridCell.Tab.1.center/0.0.1716.1073@0.0.1716.1073" timestamp="1580165998882" />
+    <state width="1877" height="178" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581877442356" />
     <state width="833" height="645" key="GridCell.Tab.1.center/0.0.876.1793@0.0.876.1793" timestamp="1576252304204" />
     <state width="917" height="649" key="GridCell.Tab.1.center/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="258" key="GridCell.Tab.1.left" timestamp="1576632854301">
+    <state width="1877" height="178" key="GridCell.Tab.1.left" timestamp="1581877442356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="269" key="GridCell.Tab.1.left/0.0.1716.1073@0.0.1716.1073" timestamp="1576617023065" />
-    <state width="1877" height="258" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576632854301" />
+    <state width="1673" height="186" key="GridCell.Tab.1.left/0.0.1716.1073@0.0.1716.1073" timestamp="1580165998882" />
+    <state width="1877" height="178" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581877442356" />
     <state width="833" height="645" key="GridCell.Tab.1.left/0.0.876.1793@0.0.876.1793" timestamp="1576252304204" />
     <state width="917" height="649" key="GridCell.Tab.1.left/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state width="1877" height="258" key="GridCell.Tab.1.right" timestamp="1576632854301">
+    <state width="1877" height="178" key="GridCell.Tab.1.right" timestamp="1581877442357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1673" height="269" key="GridCell.Tab.1.right/0.0.1716.1073@0.0.1716.1073" timestamp="1576617023066" />
-    <state width="1877" height="258" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576632854301" />
+    <state width="1673" height="186" key="GridCell.Tab.1.right/0.0.1716.1073@0.0.1716.1073" timestamp="1580165998883" />
+    <state width="1877" height="178" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581877442357" />
     <state width="833" height="645" key="GridCell.Tab.1.right/0.0.876.1793@0.0.876.1793" timestamp="1576252304204" />
     <state width="917" height="649" key="GridCell.Tab.1.right/0.0.960.1793@0.0.960.1793" timestamp="1575653575515" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1576562611164">
+    <state x="627" y="224" width="797" height="591" key="NewModule_or_Project.wizard" timestamp="1579309969887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1576169819436" />
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576562611164" />
+    <state x="627" y="224" width="797" height="591" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579309969887" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1581799271479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="412" y="167" key="SettingsEditor/0.0.1716.1073@0.0.1716.1073" timestamp="1580147112854" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581799271479" />
     <state x="0" y="279" key="SettingsEditor/0.0.876.1793@0.0.876.1793" timestamp="1576251183083" />
     <state x="0" y="279" key="SettingsEditor/0.0.960.1793@0.0.960.1793" timestamp="1575646130404" />
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576692278248">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582412691664">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576692278248" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576630413326" />
+    <state x="493" y="260" key="Vcs.Push.Dialog.v2/0.0.1716.1073@0.0.1716.1073" timestamp="1576781701321" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582412691664" />
     <state x="144" y="434" key="Vcs.Push.Dialog.v2/0.0.960.1793@0.0.960.1793" timestamp="1575658561261" />
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581799216768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581799216768" />
     <state x="50" y="632" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575646474633">
       <screen x="0" y="0" width="960" height="1793" />
     </state>
@@ -454,14 +705,27 @@
       <screen x="0" y="0" width="1716" height="1073" />
     </state>
     <state x="554" y="142" width="607" height="789" key="find.popup/0.0.1716.1073@0.0.1716.1073" timestamp="1576691561248" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1576476846596">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1577556124668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576476846596" />
-    <state x="521" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1575476653720">
-      <screen x="0" y="0" width="1716" height="1073" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577556124668" />
+    <state x="252" y="207" key="new project wizard" timestamp="1580594941936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="252" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1580594941936" />
+    <state x="354" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1581201271577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581201271577" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1579381364245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579381364245" />
+    <state x="583" y="226" width="752" height="658" key="search.everywhere.popup" timestamp="1577553381953">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="521" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1716.1073@0.0.1716.1073" timestamp="1575476653720" />
+    <state x="583" y="226" width="752" height="658" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577553381953" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -695,6 +959,721 @@
           <url>file://$PROJECT_DIR$/src/repl/repl101_125/ArraysReverseArray_124.java</url>
           <line>14</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/ArraysDiving_132.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl126_150/VeryOptionalArraysConvertDecimalToBinary_133.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/MethodIntro.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/MethodIntro.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/MethodIntro.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/MethodIntro.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day31/MethodIntro.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePracticeChallenge2D_102.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/AutoGradedCourse/ArrayMorePractice3_2D_101.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods11AddToArray_156.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods17FibonacciNumbers_162.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/ArraysZombieAttack2_170_Copy.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/volkanIstek/VolkanIstekChapter6.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods16CheckIfNumberIsPalindrome_161.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl176_200/MethodsWithString2Cover_180.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl176_200/MethodsWithString2Cover_180.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl176_200/MethodsWithString2Cover_180.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods14PrintUniqueNumbers_159.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl151_175/Methods14PrintUniqueNumbers_159.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/repl/repl201_225/Repl204.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day45/Phone.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day45/Phone.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyMentoring/Person.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyMentoring/PersonAction.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyMentoring/PersonAction.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyMentoring/Person.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyMentoring/Person.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day46/Dog.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hackerRank/interviewKit/JumpingOnTheClouds.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day57/ExceptionExample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day57/ExceptionExample.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day57/ExceptionExample.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day57/ExceptionExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day57/ExceptionExample.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day58/CheckedExceptionDemo.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="356" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

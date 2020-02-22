@@ -2,7 +2,7 @@ package zAdvanceAlgorithm;
 
 public class LeastCommonMultiple {
     public static void main(String[] args) {
-        int n1 = 48, n2 = 160,ebob=1, ekok;
+        int n1 = 48, n2 = 160, ebob = 1, ekok;
 
         for(int i = 1; i <= n1 && i <= n2; ++i)
         {
