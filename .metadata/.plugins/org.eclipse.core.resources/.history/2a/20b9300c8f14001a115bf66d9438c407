@@ -1,3 +1,0 @@
-module cyberTek {
-	exports day16;
-}
